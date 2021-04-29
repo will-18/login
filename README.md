@@ -1,2 +1,0 @@
-# login
-login para DigitakDeko
